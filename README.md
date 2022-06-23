@@ -2,3 +2,5 @@
 
 
 This calculator was built using Javascript
+
+##Github page: https://kossy-augusta.github.io/basic-calculator/
